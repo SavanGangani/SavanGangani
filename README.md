@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SavanGangani
 - 👀 I’m interested in App/Web developer 
-- 🌱 I’m currently learning Flutter/Backend 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Flutter/Node.js
+- 💞️ I’m looking to collaborate on mobile application realtime projects
 - 📫 How to reach me https://www.linkedin.com/in/savangangani
 
 <!---
