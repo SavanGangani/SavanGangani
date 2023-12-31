@@ -6,7 +6,7 @@
 <!-- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=savangangani&label=Profile%20views&color=0e75b6&style=flat" alt="savangangani" /> </p>
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **ASP.net**
 
 - 📝 I regularly write articles on [https://medium.com/@savangangani8518](https://medium.com/@savangangani8518)
 
