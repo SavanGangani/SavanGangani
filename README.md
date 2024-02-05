@@ -1,6 +1,6 @@
 
-![Focus on the good cute desktop wallpaper](https://github.com/SavanGangani/SavanGangani/assets/88571731/7e0a4504-75dd-4bba-8981-2da1c96bd3e3)
-
+<!--![Focus on the good cute desktop wallpaper](https://github.com/SavanGangani/SavanGangani/assets/88571731/7e0a4504-75dd-4bba-8981-2da1c96bd3e3)
+/>
 
 
 <!-- 
